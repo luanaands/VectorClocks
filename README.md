@@ -1,2 +1,2 @@
 # VectorClocks
-Trabalho feito na matéria fundamentos de sistemas distribuídos em 2018.2
+Trabalho do Mestrado - feito na matéria fundamentos de sistemas distribuídos em 2018.2
